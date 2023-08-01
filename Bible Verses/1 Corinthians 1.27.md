@@ -1,0 +1,2 @@
+ #foolishness #flesh #wisdom
+ 27 but God has chosen the foolish things of the world to shame the wise, and God has chosen the weak things of the world to shame the things which are strong, 28 and the 1.28: Or lowly insignificant things of the world and the despised God has chosen, the things that are not, so that He may nullify the things that are, 29so that no 1.29: Lit flesh human may boast before God.

@@ -1,0 +1,2 @@
+#law-fulfilled
+28 And he said to them, “You yourselves know that it is forbidden for a Jewish man to associate with or visit a foreigner; and yet God has shown me that I am not to call any person unholy or unclean.

@@ -1,0 +1,1 @@
+For Christ did not send me to baptize, but to preach the gospel, not with cleverness of speech, so that the cross of Christ would not be made of no effect.

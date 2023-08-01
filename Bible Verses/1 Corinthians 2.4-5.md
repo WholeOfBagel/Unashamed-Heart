@@ -1,0 +1,1 @@
+4 and my [d]message and my preaching were not in persuasive words of [e]wisdom, but in demonstration of the Spirit and of power, 5 so that your faith would not [f]rest on the [g]wisdom of mankind, but on the power of God.

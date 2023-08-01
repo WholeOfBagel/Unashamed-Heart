@@ -1,0 +1,1 @@
+Vengeance - when one looks at something like capital punishment quickly is brought into question when there are verses that show that God is our avenger. But does this mean there is absolutely no place for self defense? Is there a level of crime that simply poisons a nation?
