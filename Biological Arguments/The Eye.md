@@ -1,5 +1,6 @@
 #apologetics #evolution
 
+Status #tabled - needs to be solidified
 ### Image
 ![[Pasted image 20230611003329.png]]
 * This is a false presentation of the information.
