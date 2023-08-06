@@ -1,0 +1,159 @@
+{
+  "main": {
+    "id": "bfedd9a904ac3912",
+    "type": "split",
+    "children": [
+      {
+        "id": "db7a4a51d55ccab5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "98f2e76bfa6a1024",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e48bcf6ac7fe1b0d",
+    "type": "split",
+    "children": [
+      {
+        "id": "33803238ad0394b8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "46c7bde410e82f6e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "0ff963a0114c107e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3ef1b3eb5d71d4c2",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "365c0404f58c05d3",
+    "type": "split",
+    "children": [
+      {
+        "id": "c02f787a3f557749",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c60d88ce2d71057b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "82540b90e46940df",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ddf3b7d7a3a65cfe",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "125806087d4eecdb",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "98f2e76bfa6a1024",
+  "lastOpenFiles": [
+    "P.md",
+    "Doctrinal Debates/Sola Scriptura.md",
+    "Bible Verses/Galatians 1.6-9.md",
+    "Templates/b.v-v.md",
+    "Templates",
+    "Bible Verses/Acts 15.39.md",
+    "Doctrinal Debates/Calvanism.md",
+    "Bible Study/Blamelessness.md",
+    "Bible Study/Binding and Loosing.md",
+    "Bible Study/Armor of God.md",
+    "Bible Study/Vengeance.md",
+    "Bible Study/Saved by Faith.md",
+    "Daily Walk/You are not where you should be.md",
+    "Bible Verses/2 timothy 3.16-17.md",
+    "Doctrinal Debates"
+  ]
+}

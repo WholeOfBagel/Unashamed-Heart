@@ -1,0 +1,1 @@
+16 All Scripture is God-breathed and is useful for teaching, rebuking, correcting and training in righteousness, 17 so that the servant of God may be thoroughly equipped for every good work.

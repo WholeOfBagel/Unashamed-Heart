@@ -1,0 +1,3 @@
+> 6 I am amazed that you are so quickly deserting Him who called you by the grace of Christ, for a (M)different gospel, 7 which is not just another account; but there are some who are (N)disturbing you and want to distort the gospel of Christ. 8 But even if we, or (O)an angel from heaven, should preach to you a gospel contrary to what we have preached to you, he is to be [d](P)accursed! 9 As we (Q)have said before, even now I say again: (R)if anyone is preaching to you a gospel contrary to what you received, he is to be accursed!
+
+[link](https://www.biblegateway.com/passage/?search=Galatians+1%3A6-9&version=NASB)
