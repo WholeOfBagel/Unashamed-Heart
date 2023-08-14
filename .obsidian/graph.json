@@ -22,7 +22,7 @@
       }
     },
     {
-      "query": "path:\"Biological Arguments\"",
+      "query": "path:\"Science And Faith\"",
       "color": {
         "a": 1,
         "rgb": 11657298
@@ -34,18 +34,25 @@
         "a": 1,
         "rgb": 9130720
       }
+    },
+    {
+      "query": "path:\"Resources\"",
+      "color": {
+        "a": 1,
+        "rgb": 5431473
+      }
     }
   ],
-  "collapse-display": true,
+  "collapse-display": false,
   "showArrow": false,
-  "textFadeMultiplier": 0,
+  "textFadeMultiplier": -1,
   "nodeSizeMultiplier": 1,
   "lineSizeMultiplier": 1,
-  "collapse-forces": true,
+  "collapse-forces": false,
   "centerStrength": 0.518713248970312,
-  "repelStrength": 10,
+  "repelStrength": 12.744140625,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.6316046762907479,
+  "scale": 0.3213363860503605,
   "close": true
 }

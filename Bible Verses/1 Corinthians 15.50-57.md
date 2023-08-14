@@ -1,0 +1,5 @@
+## NASB Text
+
+> 50 Now I say this, brothers and sisters, that flesh and blood cannot inherit the kingdom of God; nor does the perishable inherit the imperishable. 51 Behold, I am telling you a mystery; we will not all sleep, but we will all be changed, 52 in a moment, in the twinkling of an eye, at the last trumpet; for the trumpet will sound, and the dead will be raised imperishable, and we will be changed. 53 For this perishable must put on the imperishable, and this mortal must put on immortality. 54 But when this perishable puts on the imperishable, and this mortal puts on immortality, then will come about the saying that is written: “Death has been swallowed up in victory. 55 Where, O Death, is your victory? Where, O Death, is your sting?” 56 The sting of death is sin, and the power of sin is the Law; 57 but thanks be to God, who gives us the victory through our Lord Jesus Christ.
+
+[link](https://www.biblegateway.com/passage/?search=1+Corinthians+15%3A51%E2%80%9352&version=NASB)

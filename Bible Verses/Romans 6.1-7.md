@@ -1,0 +1,5 @@
+## NASB Text
+
+> What shall we say then? Are we to continue in sin so that grace may increase? 2 Far from it! How shall we who died to sin still live in it? 3 Or do you not know that all of us who have been baptized into Christ Jesus have been baptized into His death? 4 Therefore we have been buried with Him through baptism into death, so that, just as Christ was raised from the dead through the glory of the Father, so we too may walk in newness of life. 5 For if we have become united with _Him_ in the likeness of His death, certainly we shall also be _in the likeness_ of His resurrection, 6 knowing this, that our old self was crucified with _Him_, in order that our body of sin might be done away with, so that we would no longer be slaves to sin; 7 for the one who has died is freed from sin.
+
+[link](https://www.biblegateway.com/passage/?search=Romans%206&version=NASB)

@@ -29,3 +29,6 @@ From the point of view of the [Gavin Ortlund](https://www.youtube.com/watch?v=_y
 9. We are icons ourselves
 #### Review of conversation
 In all honesty, I believe these to be genuine believers though they seem mainly to focus on the point that Gavin is in outright denial of the traditions and therefore cannot see the importance of venerating icons.
+
+#### Resources
+* [[Gavin Ortlund]]

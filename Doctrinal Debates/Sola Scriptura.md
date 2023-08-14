@@ -3,7 +3,7 @@ Status: #active
 
 ##### Timeline
 1. Got introduced to this topic by 3+ hours of conversation with Eastern Orthodox Christians (Ephraim from the server Orthodox Christian was my main interlocutor)
-2. [Gavin Ortlund Vs.Trent Horn: Is Sola Scriptura True](https://www.youtube.com/watch?v=kn7qdPSHSJk&ab_channel=PintsWithAquinas)
+2. [[Gavin Ortlund]] [Vs.Trent Horn: Is Sola Scriptura True](https://www.youtube.com/watch?v=kn7qdPSHSJk&ab_channel=PintsWithAquinas)
 3. And then followed it up with: [Gavin's review](https://www.youtube.com/watch?v=g-O18bhDPGc&t=567s&ab_channel=TruthUnites) (still working through this)
 
 # Arguments from Scripture

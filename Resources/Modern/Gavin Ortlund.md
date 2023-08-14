@@ -1,0 +1,1 @@
+A PhD from Fuller, Gavin introduces a level of history and careful examination of other doctrines that I could do nothing but gravitate to his insight on Protestant theology. Particularly I have enjoyed is retrieval of history 

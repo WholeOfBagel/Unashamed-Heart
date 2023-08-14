@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Science And Faith/Noah's Flood.md",
+                "file": "Daily Walk/A Starting Point.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Science And Faith/Noah's Flood.md",
+                "file": "Daily Walk/A Starting Point.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Science And Faith/Noah's Flood.md",
+                "file": "Daily Walk/A Starting Point.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Science And Faith/Noah's Flood.md"
+                "file": "Daily Walk/A Starting Point.md"
               }
             }
           }
@@ -133,8 +133,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -148,35 +147,37 @@
   },
   "active": "98f2e76bfa6a1024",
   "lastOpenFiles": [
-    "Bible Study/Life Group/Daniel 2.md",
-    "Bible Study/Life Group",
-    "Science And Faith/Noah's Flood.md",
-    "Bible Verses/Micah 7.7-10.md",
-    "Bible Study/Assurance.md",
-    "Bible Verses/Micah 7.18-20.md",
+    "Daily Walk/You are not where you should be.md",
+    "Resources/James Owen.md",
+    "Resources/Modern",
+    "Resources/Modern/John Piper.md",
+    "Resources/Modern/Gavin Ortlund.md",
+    "Doctrinal Debates/Orthodoxy/Protestant Disagreements with Orthodoxy.md",
+    "Doctrinal Debates/Calvanism.md",
+    "Bible Verses/2 Chronicles 15.15.md",
     "Bible Verses/Hebrews 11.1.md",
-    "Bible Verses/Matthew 16.19.md",
-    "Bible Verses/1 John 3.19-20.md",
-    "Bible Verses/John 3.16.md",
-    "Bible Verses/Jeremiah 17.9.md",
-    "Bible Study/Saved by Faith.md",
     "Bible Verses/James 1.2-4.md",
-    "Bible Verses/Romans 5.1.md",
-    "Bible Verses/1 John 1.9.md",
-    "Bible Study/God's Attributes/Faithful.md",
-    "Bible Verses/Untitled",
-    "Bible Study/God's Attributes/Vengeance.md",
-    "Untitled",
-    "Bible Study/God's Attributes",
-    "Bible Verses/Acts 10.28.md",
-    "Bible Verses/1 Corinthians 1.17.md",
-    "Bible Verses/Jude 1.22-25.md",
-    "Bible Study/God's Attributes/Glory.md",
-    "Bible Verses/John 5.44.md",
-    "Doctrinal Debates/Iconography.md",
     "Doctrinal Debates/Sola Scriptura.md",
-    "README.md",
+    "Doctrinal Debates/Orthodoxy/Iconography.md",
+    "Bible Study/Assurance.md",
+    "Daily Walk/A Starting Point.md",
+    "Bible Verses/1 Corinthians 15.50-57.md",
+    "Bible Verses/1 John 1.9.md",
+    "Bible Verses/1 Timothy 1.15.md",
+    "Bible Verses/Genesis 1.28.md",
+    "Resources/Anslem.md",
+    "Resources/Rev. Robert Murray McCheyne.md",
     "P.md",
+    "Doctrinal Debates/Orthodoxy",
+    "Bible Verses/To memorize/Colossians 3.2.md",
+    "Bible Verses/To memorize/Psalm 139.23-24.md",
+    "Bible Verses/Romans 6.1-7.md",
+    "Bible Verses/To memorize/1 John 3.19-20.md",
+    "Bible Verses/Jude 1.22-25.md",
+    "Resources",
+    "Bible Verses/To memorize",
+    "Bible Study/Life Group",
+    "Bible Study/God's Attributes",
     "Templates",
     "Doctrinal Debates"
   ]
