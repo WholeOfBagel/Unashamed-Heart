@@ -1,6 +1,6 @@
 {
-  "collapse-filter": true,
-  "search": "",
+  "collapse-filter": false,
+  "search": "-path:\"Bible Verses\"",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -11,7 +11,7 @@
       "query": "path:\"Bible Verses\"",
       "color": {
         "a": 1,
-        "rgb": 16771584
+        "rgb": 8892080
       }
     },
     {
@@ -41,6 +41,20 @@
         "a": 1,
         "rgb": 5431473
       }
+    },
+    {
+      "query": "path:\"Daily Walk/Doctrines\"",
+      "color": {
+        "a": 1,
+        "rgb": 16776960
+      }
+    },
+    {
+      "query": "path:\"Daily Walk\"",
+      "color": {
+        "a": 1,
+        "rgb": 5395168
+      }
     }
   ],
   "collapse-display": false,
@@ -53,6 +67,6 @@
   "repelStrength": 12.744140625,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.3213363860503605,
-  "close": true
+  "scale": 0.32669665825582317,
+  "close": false
 }
