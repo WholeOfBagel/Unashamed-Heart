@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Doctrinal Debates/Saved by Faith Alone.md",
+                "file": "Daily Walk/The company we keep.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,14 +85,14 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Doctrinal Debates/Saved by Faith Alone.md",
+                "file": "Daily Walk/The company we keep.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": false
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": true
               }
             }
           },
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Doctrinal Debates/Saved by Faith Alone.md",
+                "file": "Daily Walk/The company we keep.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Doctrinal Debates/Saved by Faith Alone.md"
+                "file": "Daily Walk/The company we keep.md"
               }
             }
           }
@@ -147,8 +147,12 @@
   },
   "active": "98f2e76bfa6a1024",
   "lastOpenFiles": [
-    "Daily Walk/Doctrines/Saved by Faith.md",
+    "Bible Verses/Psalm 73.1-14.md",
+    "Daily Walk/The company we keep.md",
+    "Daily Walk/Doctrines/Assurance.md",
+    "Bible Study/Justification-Salvation-Sanctification-Glorified/A conversation on terms.md",
     "Doctrinal Debates/Saved by Faith Alone.md",
+    "Daily Walk/Doctrines/Saved by Faith.md",
     "Daily Walk/Doctrines/Sanctification.md",
     "Bible Verses/Philippians 2.13.md",
     "Bible Verses/To memorize/Ephesians 2.8-9.md",
@@ -156,7 +160,6 @@
     "Bible Verses/Ephesians 5.1-2.md",
     "Bible Verses/Galatians 5.16.md",
     "Bible Verses/Romans 16.26.md",
-    "Bible Study/Justification-Salvation-Sanctification-Glorified/A conversation on terms.md",
     "Daily Walk/Doctrines",
     "Doctrinal Debates/Trinity.md",
     "Daily Walk/Toiling Against Sin.md",
@@ -172,9 +175,6 @@
     "Doctrinal Debates/Binding and Loosing.md",
     "Daily Walk/Despising Lust.md",
     "Bible Study/Justification-Salvation-Sanctification-Glorified",
-    "Resources/Nicene Creed.md",
-    "Resources/CS Lewis.md",
-    "Daily Walk/A Place to Start.md",
     "Pasted image 20230817235705.png",
     "Resources/Modern",
     "Doctrinal Debates/Orthodoxy",

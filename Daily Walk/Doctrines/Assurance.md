@@ -1,3 +1,5 @@
+> "Whom have I in the heaven but You? And earth has nothing I desire besides You." [[Psalm 73.25]]
+
 Does [[Hebrews 11.1]] mean that we should never doubt? Hardly is this the case, for there are many portions of the bible which tell us to have mercy on those who doubt [[Jude 1.22-25]]. It seems as though doubt, in carrying degrees is ordinary in the walk of genuine Christians; however, it being the constant condition might push one to consider that they are listening to the convictions of their world heart or are being called by the Holy Spirit into conformation.
 
 ### Sin
