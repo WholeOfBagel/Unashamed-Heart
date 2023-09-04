@@ -7,7 +7,7 @@
 	2. [[1 John 2.1-6]] He is the propitiation for our sin, yes. However, he is also the truth that leads us into righteousness, leading us to walk as he did. And especially relevant to the first point, the individual who does walk in the keeping of commandments has "come to know him" AND has the truth in him which is the indwelling of the Holy Spirit.
 4. God has never seen us as automata, he has always seen us as co-partners in sanctification, growth, and glorifying Him. 
 	1. Our being made in His is Image is a functional role.
-		1. It is not merely Intelligence, Appearance, etc, do not define this point; otherwise, this would not be a uniquely human gift
+		1. It is not merely Intelligence, Appearance, etc, as they do not define this quality; otherwise, this would not be a uniquely human gift
 		2. It is, rather the following:
 			1. We are called to be priests, with Adam being the first
 			3. We are called to be servants to each other graciously receiving and giving
@@ -23,3 +23,5 @@
 	* [Christ Died to Make Us Holy](https://www.desiringgod.org/messages/christ-died-to-make-us-holy)
 	* [If I’m Dead to Sin, Why Must I Kill It Every Day?](https://www.desiringgod.org/interviews/if-im-dead-to-sin-why-must-i-kill-it-every-day)
 	* [Fight Sin, Find Rest](https://www.desiringgod.org/interviews/fight-sin-find-rest)
+* [[James Owen]]
+	* [[The Mortification of Sin]]
