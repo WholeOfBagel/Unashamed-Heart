@@ -13,9 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Books/The Mortification of Sin/Continuous Activity of Indwelling Sin.md",
+                "file": "Science And Faith/Compatibility with Evolution.md",
                 "mode": "source",
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "0f1d5c6d5920726f",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.11"
               }
             }
           },
@@ -93,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Books/The Mortification of Sin/Continuous Activity of Indwelling Sin.md",
+                "file": "Science And Faith/Compatibility with Evolution.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Books/The Mortification of Sin/Continuous Activity of Indwelling Sin.md",
+                "file": "Science And Faith/Compatibility with Evolution.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Books/The Mortification of Sin/Continuous Activity of Indwelling Sin.md"
+                "file": "Science And Faith/Compatibility with Evolution.md"
               }
             }
           }
@@ -155,42 +165,42 @@
   },
   "active": "98f2e76bfa6a1024",
   "lastOpenFiles": [
-    "Bible Verses/1 Corinthians 9.24-27.md",
+    "Resources/Church Fathers/St. Augustine.md",
+    "Science And Faith/Compatibility with Evolution.md",
+    "Resources/Church Fathers",
+    "Science And Faith/The Eye.md",
+    "Science And Faith/Noah's Flood.md",
+    "Science And Faith/Ken Ham.md",
+    "Bible Verses/To memorize/1 John 3.19-20.md",
+    "Daily Walk/Doctrines/Assurance.md",
+    "Daily Walk/Doctrines/Sanctification.md",
+    "Resources/Modern/Dr. JI Packer.md",
     "Books/The Mortification of Sin/Continuous Activity of Indwelling Sin.md",
+    "Books/The Mortification of Sin/The Mortification of Sin.md",
+    "Bible Verses/To memorize/Micah 7.7-10.md",
+    "Bible Verses/To memorize/Ephesians 2.8-9.md",
+    "Bible Verses/To memorize/Colossians 3.2.md",
+    "Bible Verses/1 John 2.1-6.md",
+    "Bible Verses/1 Corinthians 9.24-27.md",
     "Bible Verses/To memorize/Romans 13.14.md",
     "Bible Verses/Romans 6.1-7.md",
     "Books/The Mortification of Sin",
-    "Books/The Mortification of Sin/The Mortification of Sin.md",
     "Bible Verses/James 1.2-4.md",
     "Bible Verses/Romans 8.5-8.md",
     "Bible Verses/Galatians 6.8.md",
     "Bible Verses/1 Thessalonians 3.8.md",
-    "Bible Verses/1 John 2.1-6.md",
     "Bible Verses/Romans 6.19.md",
     "Bible Verses/1 Timothy 1.15.md",
     "Bible Verses/Romans 8.9.md",
     "Bible Verses/Romans 8.1.md",
-    "Bible Verses/Romans 8.13.md",
     "Bible Verses/Untitled",
-    "Daily Walk/Toiling Against Sin.md",
-    "Bible Verses/Philippians 1.8-11.md",
-    "Doctrinal Debates/Sola Scriptura.md",
     "Books",
-    "Bible Verses/Matthew 27.51.md",
-    "Doctrinal Debates/Saved by Faith Alone.md",
-    "Daily Walk/A Place to Start.md",
-    "Daily Walk/Doctrines/Sanctification.md",
-    "Bible Verses/To memorize/Ephesians 2.8-9.md",
-    "Bible Verses/To memorize/Colossians 3.2.md",
-    "Bible Verses/To memorize/1 John 3.19-20.md",
-    "Daily Walk/The company we keep.md",
     "Daily Walk/Doctrines",
     "Bible Study/Justification-Salvation-Sanctification-Glorified",
     "Pasted image 20230817235705.png",
     "Resources/Modern",
     "Doctrinal Debates/Orthodoxy",
     "Resources",
-    "Bible Verses/To memorize",
-    "Bible Study/Life Group"
+    "Bible Verses/To memorize"
   ]
 }

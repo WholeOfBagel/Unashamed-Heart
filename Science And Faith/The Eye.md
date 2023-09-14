@@ -12,8 +12,9 @@ Status #tabled - needs to be solidified
 For a long time the absence of a hypothesis regarding the intruiging nature of the placement of photoreceptors has been a sore point for intelligent design.
 
 ## Christain Viewpoints
-This is a design constraint revealed by the environments of the organisms being compared
+Intelligent design: This is a design constraint revealed by the environments of the organisms being compared.
 
+However, more broadly, though I considered these types of arguments important in the past I recognize that none of the evolutionist arguments are necessarily contrary to the account of Genesis as [[Ken Ham]] would like to establish. 
 # Synthesis
 As found in [Evolution News](https://evolutionnews.org/2018/04/is-the-human-eye-really-evidence-against-intelligent-design/)
 > The light-sensing cells in a vertebrate retina require lots of nutrients and vast amounts of energy. In mammals, they have the highest metabolic rate of any tissue in the body.8 About three-quarters of the blood supply to the eye flows through a dense network of capillaries called the “choriocapillaris,” which is situated behind the retina (e in the drawing).9,10 Oxygen and nutrients are transported from the choriocapillaris to the light-sensing cells by an intermediate layer of cells called the “retinal pigment epithelium” (RPE, d in the drawing).

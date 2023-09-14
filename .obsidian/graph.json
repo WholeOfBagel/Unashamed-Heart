@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "-path:\"Bible Verses\"",
+  "search": "",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -55,6 +55,13 @@
         "a": 1,
         "rgb": 5395168
       }
+    },
+    {
+      "query": "path:Books",
+      "color": {
+        "a": 1,
+        "rgb": 11621088
+      }
     }
   ],
   "collapse-display": false,
@@ -67,6 +74,6 @@
   "repelStrength": 12.744140625,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.28927927105381873,
-  "close": false
+  "scale": 0.2731310364492335,
+  "close": true
 }
