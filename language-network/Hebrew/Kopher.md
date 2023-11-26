@@ -1,0 +1,3 @@
+From [[Naked Bible Podcast on Leviticus]] (Leviticus 1):
+
+> So sometimes kopher means just a gift, a ransom, something that I exchange to protect me, or work out some sort of arrangement so that I‘m safe and something gets done. That's one of four nouns that are spelled the same way in Hebrew, kopher. If you actually look this up in lexicon, the one that occurs in Leviticus 1:4 is labeled kopher 4. It's the fourth one

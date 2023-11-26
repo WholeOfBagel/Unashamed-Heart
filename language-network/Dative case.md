@@ -1,0 +1,1 @@
+a grammatical case used in some languages to indicate the recipient or beneficiary of an action

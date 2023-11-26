@@ -1,0 +1,7 @@
+Which is better put as "purification offering" from the [[Holman Study Bible]] & [[Michael Heiser]]'s [[Naked Bible Podcast on Leviticus]], coming from the word [[chatat]]
+
+
+
+> It is ensuring decontamination. It's like creating a clean room for those of you in engineering or maybe that work in computers. That's the idea, you just cleanse and decontaminate, you protect, you insulate the specific area, in this case, [[sacred space]], from this person bringing the offering, this person who has inadvertently committed an offense. God accepts the offering because he's the one who laid out the system. He accepts the offering and says okay, now that we performed the offering, you are taken care of. The priest has, here's our next couple terms we need to discuss, made atonement for you and you shall be forgiven. Well if you remember from a previous episode, we talked about the atonement verb, kaphar in Hebrew. It comes from the Acadian kuppuru, which means to wipe off or to wipe clean, to cleanse. It refers to the act of cleansing or wiping away impurity, wiping away contamination. Now that differs a lot from what you will often read in more popular sources, popular meaning sort of commentaries that are oriented only to the English Bible or something you might hear a pastor say or something that is “for the masses” that kind of thing, if anybody ever does that for Leviticus
+
+This helps us understand why there is [[chatat]] offered for things like childbirth which we know God looks upon with great favor.

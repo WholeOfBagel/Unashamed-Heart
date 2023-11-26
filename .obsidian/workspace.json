@@ -8,25 +8,11 @@
         "type": "tabs",
         "children": [
           {
-            "id": "98f2e76bfa6a1024",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Doctrinal Debates/Prophecy.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "0f1d5c6d5920726f",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.4.11"
-              }
+              "type": "graph",
+              "state": {}
             }
           },
           {
@@ -103,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Doctrinal Debates/Prophecy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Doctrinal Debates/Prophecy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Doctrinal Debates/Prophecy.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -163,44 +145,46 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "98f2e76bfa6a1024",
+  "active": "0f1d5c6d5920726f",
   "lastOpenFiles": [
-    "Bible Verses/1 John 1.9.md",
-    "Doctrinal Debates/Prophecy.md",
-    "Bible Verses/To memorize/Micah 7.7-10.md",
-    "Bible Verses/To memorize/Ephesians 2.8-9.md",
-    "Bible Verses/To memorize/Colossians 3.2.md",
-    "Bible Verses/To memorize/1 John 3.19-20.md",
-    "Science And Faith/Compatibility with Evolution.md",
-    "Resources/Church Fathers/St. Augustine.md",
-    "Resources/Church Fathers",
-    "Science And Faith/The Eye.md",
-    "Science And Faith/Noah's Flood.md",
-    "Science And Faith/Ken Ham.md",
-    "Daily Walk/Doctrines/Assurance.md",
-    "Daily Walk/Doctrines/Sanctification.md",
-    "Resources/Modern/Dr. JI Packer.md",
-    "Books/The Mortification of Sin/Continuous Activity of Indwelling Sin.md",
-    "Books/The Mortification of Sin/The Mortification of Sin.md",
-    "Bible Verses/1 John 2.1-6.md",
-    "Bible Verses/1 Corinthians 9.24-27.md",
-    "Bible Verses/To memorize/Romans 13.14.md",
-    "Bible Verses/Romans 6.1-7.md",
-    "Books/The Mortification of Sin",
-    "Bible Verses/James 1.2-4.md",
-    "Bible Verses/Romans 8.5-8.md",
-    "Bible Verses/Galatians 6.8.md",
-    "Bible Verses/1 Thessalonians 3.8.md",
-    "Bible Verses/Romans 6.19.md",
-    "Bible Verses/1 Timothy 1.15.md",
-    "Bible Verses/Untitled",
-    "Books",
-    "Daily Walk/Doctrines",
-    "Bible Study/Justification-Salvation-Sanctification-Glorified",
-    "Pasted image 20230817235705.png",
-    "Resources/Modern",
-    "Doctrinal Debates/Orthodoxy",
-    "Resources",
-    "Bible Verses/To memorize"
+    "language-network/Hebrew/āšām.md",
+    "Bible Study/Leviticus/Guilt Offering.md",
+    "Daily Walk/What does the doctor prescribe.md",
+    "Bible Study/Leviticus/Sacrifice in Leviticus.md",
+    "Resources/Commentaries/Naked Bible Podcast on Leviticus.md",
+    "Resources/Modern/footnoted/Dick Averbeck.md",
+    "Resources/Modern/footnoted/Baruck Levine.md",
+    "Resources/Modern/footnoted",
+    "language-network/Hebrew/Kopher.md",
+    "Resources/Commentaries/On Leviticus/Leviticus-2-3-nbp.pdf",
+    "Resources/Commentaries/On Leviticus/Unconfirmed 642280.crdownload",
+    "Resources/Commentaries/On Leviticus/Leviticus-1-nbp.pdf",
+    "Resources/Commentaries/On Leviticus/Unconfirmed 692725.crdownload",
+    "Resources/Commentaries/ON Leviticus/Untitled",
+    "Resources/Commentaries/On Leviticus",
+    "Bible Study/Leviticus/Sacred Space.md",
+    "Bible Study/Leviticus/Blood in Leviticus.md",
+    "Bible Study/Leviticus/Sin Offering.md",
+    "Bible Study/Leviticus/The Tabernacle.md",
+    "language-network/Greek/μονογενής.md",
+    "language-network/Hebrew/chatat.md",
+    "language-network/Hebrew",
+    "Bible Verses/2 timothy 3.16-17.md",
+    "Bible Study/Leviticus/Untitled",
+    "Resources/Modern/Michael Heiser.md",
+    "Resources/Commentaries/Holman Study Bible.md",
+    "Resources/Commentaries",
+    "Pasted image 20231125013602.png",
+    "Bible Study/Exodus/Exodus 24.md",
+    "language-network/Русский/состоянии.md",
+    "language-network/Русский/Untitled.md",
+    "language-network/Русский/в полной мере.md",
+    "language-network/Русский/напряженном.md",
+    "language-network/Русский/раздражительном.md",
+    "language-network/Русский/напротив.md",
+    "language-network/Русский/встречи.md",
+    "language-network/Русский/избегнул.md",
+    "language-network/Untitled.canvas",
+    "Pasted image 20230817235705.png"
   ]
 }

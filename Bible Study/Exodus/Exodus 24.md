@@ -1,0 +1,2 @@
+
+>  6 Moses took half of the blood and put _it_ in basins, and the _other_ half of the blood he sprinkled on the altar. 7 Then he took the Book of the Covenant and read _it_ as the people listened; and they said, “All that the Lord has spoken we will do, and we will be obedient!” 8 So Moses took the blood and sprinkled _it_ on the people, and said, “Behold the blood of the covenant, which the Lord has made with you in accordance with all these words.”

@@ -4,7 +4,7 @@
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
-  "showOrphans": true,
+  "showOrphans": false,
   "collapse-color-groups": false,
   "colorGroups": [
     {
@@ -46,7 +46,7 @@
       "query": "path:\"Daily Walk/Doctrines\"",
       "color": {
         "a": 1,
-        "rgb": 16776960
+        "rgb": 40447
       }
     },
     {
@@ -62,6 +62,13 @@
         "a": 1,
         "rgb": 11621088
       }
+    },
+    {
+      "query": "path:language-network  ",
+      "color": {
+        "a": 1,
+        "rgb": 15662848
+      }
     }
   ],
   "collapse-display": false,
@@ -74,6 +81,6 @@
   "repelStrength": 12.744140625,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.2731310364492335,
+  "scale": 0.32559465360726053,
   "close": true
 }
